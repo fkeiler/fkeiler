@@ -23,19 +23,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QALRAAAQMDAwIFAgcAAAAAAAAAAQIDBAAFERIhMQYTFCJBUXEyoUKBkbHR4fH/xAAZAQEAAwEBAAAAAAAAAAAAAAAEAgMFAAH/xAAeEQACAgIDAQEAAAAAAAAAAAABAgADERIEITETIv/aAAwDAQACEQMRAD8AXbCizPPMNzGmPD9hOpzPmDmk5Oc+/pj702J6Nt9wt7Dwj6XQ6nUtvhSN8n4+9IdpgJS4grBW2PY12Dp7qpi3xUtuRlhCE+VKUEnatO/ZMEGDqYN6Jzm42W3IkIjuts5XrUCwrZJBVpGOcbpzztWU3ZLYJbCZPYSh4aVZO6VA5BIHGePbB+aapMeaww3OlRWVB2Z3yG1AuNJIJx8YPHtWPclIcdDiWgpKhnVjkHioU2fQkZ8kra9Ap8zFW72ExLah1tAQQt1azg7JykJT8/ViirNwbbWTpRt7GikBTKDGzpyElzuOMzGNLaSs6kZ2AzTh04h+VbpbrrsfXHUQ4goIOORpI2xjb8qTFx34FhBmF1la2QEOhAA3T9KzuBv/ACKts3ZcW0LkynG0qfjJQlLYJStQJ4weRncE/GxoN9m2cxFP5Ilrq1mUi1ssIQnxktReckIOkJBwD+nH7VLITCYjsxZJjqeQ2lJS2kkpAGMnHxzWI9KV1F0pMt8tQXKgN95t1O2U5yUnHsaR7HfDFlOvTlyXnGkFKdJxtj8R5IoXHPxOw7jeQxuGvmI5TUW5LgOHlgb+VsmipIRF3tXjoseCO4dLiU6h5uM4B2/uitxW2UEGYrEqSDHd+zwJiwtUlx6Pr1JaUfIrHoRkZGaSLrZXrdKejxnEOxHla3IziMoCvdPqDRRQtAx7i2YjoSgpL8KFIh2+E1D8T5FuYUVKHON/StzpCzwo0BcB63OuLkJxKdeHkV6Ywf8AaKK5K1Hk83JmpMsVss0Dsh5LMdaValBROlWwGPU7em9FFFXoepB0GZ//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Starstruck</div>
+                                    <div class="artist">Years &amp; Years</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAYFAQIEBwgD/8QAKRAAAgEEAQIGAgMBAAAAAAAAAQIDAAQFESEGEgcTIjFRYUFxFSRSgf/EABcBAQEBAQAAAAAAAAAAAAAAAAECAAP/xAAbEQADAQEAAwAAAAAAAAAAAAAAAREhAjEygf/aAAwDAQACEQMRAD8A5b1WfZYbI3ttLcWllPNBENvIqEqvBPv86B4/NYOq2R4b5bLPi77EWF5FDCtrPcvH5HmSTEBVVQw5XRYnexob/VDcMWeG3hXe9a2d5cHI22NSOEyWwnGzcP3doAG+F3x3fPzzWunUo7K6lXU6IP4NdI+F9xIbnE4/p2aG2fH4thky7d8vmtN3MFAPIICjgbXvJPNao8ROjMlj+oZ7m1jF9Y3v9yOa2X0x97HujcDhWVu5dHW9cULrYMxMRKKqR+90VQBTD0RnJsJn7KVJJxbGZfPigYq0y/545P190v6qZ6UjY5eOdVU+T6gW9lYjQY/o8/8AKY3hm0lo+YS1FnLlMXj7u2GbeQTQ3ESyue0qdoDGraPr0RwARUJmuo7zGdNZLpqSKxuTkLoXc956zKrqeV0wBU73yR7E6rPw8+Kw3Xjfyk99YeUI2iuO5gVYAE+YF5AYH8bK6Gx70ueJF5aZHrTJ3uPuRc207h0kG/gDRJ9zx70RpyfRyWiwaKrRTAAVL4G6MIuoVbtaSM9p+wOKKK6ceUT36kvFmMes8AlxrXiwQp2gvrbhFDB+CSveCeNe9Ks7F55HZQpZixC8AbO+PqiisHJ5miiipLP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Good Puss
-Explicit content</div>
+                                    <div class="name">Gooey Fluid Girls</div>
                                     <div class="artist">COBRAH</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QALRAAAQMDAwIFAgcAAAAAAAAAAQIDBAAFERIhMQYTFCJBUXEyoUKBkbHR4fH/xAAZAQEAAwEBAAAAAAAAAAAAAAAEAgMFAAH/xAAeEQACAgIDAQEAAAAAAAAAAAABAgADERIEITETIv/aAAwDAQACEQMRAD8AXbCizPPMNzGmPD9hOpzPmDmk5Oc+/pj702J6Nt9wt7Dwj6XQ6nUtvhSN8n4+9IdpgJS4grBW2PY12Dp7qpi3xUtuRlhCE+VKUEnatO/ZMEGDqYN6Jzm42W3IkIjuts5XrUCwrZJBVpGOcbpzztWU3ZLYJbCZPYSh4aVZO6VA5BIHGePbB+aapMeaww3OlRWVB2Z3yG1AuNJIJx8YPHtWPclIcdDiWgpKhnVjkHioU2fQkZ8kra9Ap8zFW72ExLah1tAQQt1azg7JykJT8/ViirNwbbWTpRt7GikBTKDGzpyElzuOMzGNLaSs6kZ2AzTh04h+VbpbrrsfXHUQ4goIOORpI2xjb8qTFx34FhBmF1la2QEOhAA3T9KzuBv/ACKts3ZcW0LkynG0qfjJQlLYJStQJ4weRncE/GxoN9m2cxFP5Ilrq1mUi1ssIQnxktReckIOkJBwD+nH7VLITCYjsxZJjqeQ2lJS2kkpAGMnHxzWI9KV1F0pMt8tQXKgN95t1O2U5yUnHsaR7HfDFlOvTlyXnGkFKdJxtj8R5IoXHPxOw7jeQxuGvmI5TUW5LgOHlgb+VsmipIRF3tXjoseCO4dLiU6h5uM4B2/uitxW2UEGYrEqSDHd+zwJiwtUlx6Pr1JaUfIrHoRkZGaSLrZXrdKejxnEOxHla3IziMoCvdPqDRRQtAx7i2YjoSgpL8KFIh2+E1D8T5FuYUVKHON/StzpCzwo0BcB63OuLkJxKdeHkV6Ywf8AaKK5K1Hk83JmpMsVss0Dsh5LMdaValBROlWwGPU7em9FFFXoepB0GZ//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBwMFCAH/xAArEAACAQMDAwMEAgMAAAAAAAABAgMEBREAEiEGMUEHFFETIjJhccFCgZH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAMFBgH/xAAhEQEAAgEEAgMBAAAAAAAAAAABAAIDBAURIRJREzJBIv/aAAwDAQACEQMRAD8AX57ZGsbMQcAZ0pVN+skE7xu7tt4LImRn9HzqzOs6dqXpK7TpG7MtM4AVeckY4/7pR9AYLRM1bBV9Ppc78yEwCqdREUAGVG78W5J7cjsdaDX7hbBwYw7mZ23aK51+RZitlLR3alE9BKssZ4PgqfgjuNedV2lafpgvQ06rVQxv9eaSYAOPBAOAD4xnnU+jtNN0v6pXCyUMjtQywo8rOxdYXxnapxzwcc6m9W9JVfWSUsdKTR25X3vI5yzJ2G1f7Ok77jTUUKFf6fUex7RbS5LXtY8D32znJhhDuU7mOQT8aNdS0Xp709DboqJ7XDPHHzvlGXY+SW7/ANaNRm33/UjLuFPTEWu66r7daIae/G476iItE2wRmdDkbmOO2eNVnZL7NZ72twoZvb1EcmUkwSRzzkDuMZyNSxcaaoEZqQryIcqeCQPI58ag0ENunuVXHUM0NKQTGQRlD478H+PjVcq/ZWP1Sv1AlhUNfI9/pLn7+KaG4lnmaRsqs6gjBPcKcKMccf6032n1bu96qbFR0luprWvuFjq3iH27G7IobJzgZz44GkT01SwVF5oaS+vTU8UcTvNUF1KSEHK+MZ8Y5zjWsargiu8dxpdu33e4YONgDEjj4I8/rSaJzxHa28gWX91X1zYOn+oprXXPLFOrIThDtVWAOc/GDo1VXrg1Bc+oKO6UFyikeoo4/qpEFkCMnHJB4JB7frRqzx6zI1O5U5tLSt04lTw1VRIoO2BgPDRJzz/GdbKnFtrysc7C1VjfjUoxenb43ryyc/5DI/WjRoavJ3J04ZDuU13tFdJR1cjwzxADC4wVIyCCOCCCCCOCDrXvXVMrl5J5Sx87jo0aj4hfky++qtkQFTNiIYQbz9o78fGjRo10IKz/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Crave
-Explicit content</div>
-                                    <div class="artist">Years &amp; Years</div>
+                                    <div class="name">Every Rule</div>
+                                    <div class="artist">Charli XCX</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -43,13 +48,6 @@ Explicit content</div>
                                 <div class="infos">
                                     <div class="name">Mirror</div>
                                     <div class="artist">Sigrid</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAYDBAUH/8QALRAAAQMDAwIFAgcAAAAAAAAAAQIDBAAFERIhMQYTFCJBUXEyoUKBkbHR4fH/xAAZAQEAAwEBAAAAAAAAAAAAAAAEAgMFAAH/xAAeEQACAgIDAQEAAAAAAAAAAAABAgADERIEITETIv/aAAwDAQACEQMRAD8AXbCizPPMNzGmPD9hOpzPmDmk5Oc+/pj702J6Nt9wt7Dwj6XQ6nUtvhSN8n4+9IdpgJS4grBW2PY12Dp7qpi3xUtuRlhCE+VKUEnatO/ZMEGDqYN6Jzm42W3IkIjuts5XrUCwrZJBVpGOcbpzztWU3ZLYJbCZPYSh4aVZO6VA5BIHGePbB+aapMeaww3OlRWVB2Z3yG1AuNJIJx8YPHtWPclIcdDiWgpKhnVjkHioU2fQkZ8kra9Ap8zFW72ExLah1tAQQt1azg7JykJT8/ViirNwbbWTpRt7GikBTKDGzpyElzuOMzGNLaSs6kZ2AzTh04h+VbpbrrsfXHUQ4goIOORpI2xjb8qTFx34FhBmF1la2QEOhAA3T9KzuBv/ACKts3ZcW0LkynG0qfjJQlLYJStQJ4weRncE/GxoN9m2cxFP5Ilrq1mUi1ssIQnxktReckIOkJBwD+nH7VLITCYjsxZJjqeQ2lJS2kkpAGMnHxzWI9KV1F0pMt8tQXKgN95t1O2U5yUnHsaR7HfDFlOvTlyXnGkFKdJxtj8R5IoXHPxOw7jeQxuGvmI5TUW5LgOHlgb+VsmipIRF3tXjoseCO4dLiU6h5uM4B2/uitxW2UEGYrEqSDHd+zwJiwtUlx6Pr1JaUfIrHoRkZGaSLrZXrdKejxnEOxHla3IziMoCvdPqDRRQtAx7i2YjoSgpL8KFIh2+E1D8T5FuYUVKHON/StzpCzwo0BcB63OuLkJxKdeHkV6Ywf8AaKK5K1Hk83JmpMsVss0Dsh5LMdaValBROlWwGPU7em9FFFXoepB0GZ//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Strange And Unusual</div>
-                                    <div class="artist">Years &amp; Years</div>
                                 </div>
                             </div>
                         </div>
