@@ -1,7 +1,7 @@
 # Hi, I'm Felipe
 
+[![Website](https://img.shields.io/badge/website-000000?logo=semantic-web&logoColor=white&style=flat-square)](https://felipe.keiler.nom.br/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-000000.svg?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/felipe-keiler/)
-[![Website](https://img.shields.io/badge/website-000000?style=flat-square)](https://felipe.keiler.nom.br/)
 [![Mastodon](https://img.shields.io/badge/mastodon-000000?logo=mastodon&logoColor=white&style=flat-square)](https://mstdn.social/@fkeiler/)
 
 
