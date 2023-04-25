@@ -1,3 +1,5 @@
+<img align="left" src="https://avatars.githubusercontent.com/u/36575953" height="128" width="128" alt="" />
+
 # Hi, I'm Felipe
 
 [![Website](https://img.shields.io/badge/website-000000?logo=semantic-web&logoColor=white&style=flat-square)](https://felipe.keiler.nom.br/)
