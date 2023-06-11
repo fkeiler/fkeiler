@@ -1,5 +1,3 @@
-<img align="left" src="https://avatars.githubusercontent.com/u/36575953" height="128" width="128" alt="" />
-
 # Hi, I'm Felipe
 
 [![Website](Website.png)](https://felipe.keiler.nom.br/)
