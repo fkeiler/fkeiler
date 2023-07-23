@@ -1,5 +1,5 @@
 # :wave: Hi, I'm Felipe
 
-[![Website](Website.png)](https://felipe.keiler.nom.br/)
-[![LinkedIn](LinkedIn.png)](https://www.linkedin.com/in/felipe-keiler/)
-[![Mastodon](Mastodon.png)](https://mstdn.social/@fkeiler/)
+[![Website](Website.svg)](https://felipe.keiler.nom.br/)
+[![LinkedIn](LinkedIn.svg)](https://www.linkedin.com/in/felipe-keiler/)
+[![Mastodon](Mastodon.svg)](https://mstdn.social/@fkeiler/)
