@@ -1,0 +1,26 @@
+name: Listens Widget
+on:
+  schedule:
+    - cron: "0/10 * * * *"
+  workflow_dispatch:
+jobs:
+  download:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup GitHub SSH
+        run: git remote set-url origin ${{ secrets.ssh }}
+      - name: Download SVG file
+        run: curl https://listens-widget.fly.dev/listens/fkeiler > listens.svg
+      - name: Check for Changes
+        run: git status
+      - name: Stage file
+        run: git add listens.svg
+      - name: Commit file
+        run: git commit -m "Change Recent Listens"
+      - name: Fetch from Master
+        run: git fetch origin master
+      - name: Push to Master
+        run: git push origin HEAD:master
+      
