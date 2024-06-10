@@ -11,6 +11,10 @@ jobs:
       - uses: actions/checkout@v4
       - name: Download SVG file
         run: curl https://listens-widget.fly.dev/listens/fkeiler > listens.svg
+      - name: Configure git
+        run: |
+          git config user.name "Github Actions"
+          git config user.email "gh-actions-robot@example.com"
       - name: Stage file
         run: git add listens.svg
       - name: Commit file
