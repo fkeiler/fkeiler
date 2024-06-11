@@ -35,24 +35,24 @@
             <rect width="22" height="22" fill="white" style="filter:url(#album-shadow)" />
             <image href="data:image/jpg;base64,PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ZW4+Cjx0aXRsZT40MDAgQmFkIFJlcXVlc3Q8L3RpdGxlPgo8aDE+QmFkIFJlcXVlc3Q8L2gxPgo8cD5pbnZhbGlkIE1CSUQgc3BlY2lmaWVkPC9wPgo" x="1" y="1" width="20" height="20"
                 preserveAspectRatio="xMidYMid slice" />
-            <text font-size="5" x="25" y="5" fill="black" clip-path="url(#text)">The von dutch remix with addison rae and a.g. cook</text>
-            <text font-size="4.5" x="25" y="9.5" fill="#555" clip-path="url(#text)">Charli xcx, Addison Rae, A. G. Cook</text>
+            <text font-size="5" x="25" y="5" fill="black" clip-path="url(#text)">The 360 remix with robyn and yung lean</text>
+            <text font-size="4.5" x="25" y="9.5" fill="#555" clip-path="url(#text)">Charli xcx, Robyn, Yung Lean</text>
         </g>
         
         <g class="listen" transform="translate(0, 24)">
             <rect width="22" height="22" fill="white" style="filter:url(#album-shadow)" />
             <image href="data:image/jpg;base64,PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ZW4+Cjx0aXRsZT40MDAgQmFkIFJlcXVlc3Q8L3RpdGxlPgo8aDE+QmFkIFJlcXVlc3Q8L2gxPgo8cD5pbnZhbGlkIE1CSUQgc3BlY2lmaWVkPC9wPgo" x="1" y="1" width="20" height="20"
                 preserveAspectRatio="xMidYMid slice" />
-            <text font-size="5" x="25" y="5" fill="black" clip-path="url(#text)">The 360 remix with robyn and yung lean</text>
-            <text font-size="4.5" x="25" y="9.5" fill="#555" clip-path="url(#text)">Charli xcx, Robyn, Yung Lean</text>
+            <text font-size="5" x="25" y="5" fill="black" clip-path="url(#text)">MPH</text>
+            <text font-size="4.5" x="25" y="9.5" fill="#555" clip-path="url(#text)">Doechii</text>
         </g>
         
         <g class="listen" transform="translate(0, 48)">
             <rect width="22" height="22" fill="white" style="filter:url(#album-shadow)" />
             <image href="data:image/jpg;base64,PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ZW4+Cjx0aXRsZT40MDAgQmFkIFJlcXVlc3Q8L3RpdGxlPgo8aDE+QmFkIFJlcXVlc3Q8L2gxPgo8cD5pbnZhbGlkIE1CSUQgc3BlY2lmaWVkPC9wPgo" x="1" y="1" width="20" height="20"
                 preserveAspectRatio="xMidYMid slice" />
-            <text font-size="5" x="25" y="5" fill="black" clip-path="url(#text)">Spring breakers</text>
-            <text font-size="4.5" x="25" y="9.5" fill="#555" clip-path="url(#text)">Charli xcx</text>
+            <text font-size="5" x="25" y="5" fill="black" clip-path="url(#text)">I Came To Party</text>
+            <text font-size="4.5" x="25" y="9.5" fill="#555" clip-path="url(#text)">Venessa Michaels, Lotti, HOMI</text>
         </g>
         
     </g>
