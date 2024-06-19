@@ -1,9 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="93" height="25" viewBox="0 -0.5 93 25" shape-rendering="crispEdges">
-<metadata>Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
-<path stroke="#0d6a9a" d="M2 0h12M1 1h1M88 1h3M0 2h1M90 2h2M0 3h1M91 3h1M0 4h1M91 4h1M91 5h1M91 6h1M91 7h1M91 8h1M91 9h1M91 10h1M91 11h1M91 12h1M91 13h1M91 14h1M91 15h1M90 16h2M89 17h3M84 18h1M87 18h4M1 19h1M91 19h1M1 20h91M1 21h91M1 22h91M2 23h89" />
-<path stroke="#0a4e71" d="M14 0h77M91 1h1M92 2h1M92 3h1M92 4h1M0 5h1M92 5h1M0 6h1M92 6h1M0 7h1M92 7h1M0 8h1M92 8h1M0 9h1M92 9h1M0 10h1M92 10h1M0 11h1M92 11h1M0 12h1M92 12h1M0 13h1M92 13h1M0 14h1M92 14h1M0 15h1M92 15h1M0 16h1M92 16h1M0 17h1M92 17h1M0 18h1M92 18h1M0 19h1M92 19h1M0 20h1M92 20h1M0 21h1M92 21h1M0 22h1M92 22h1M1 23h1M91 23h1M2 24h89" />
-<path stroke="#71bee7" d="M2 1h1M1 2h1M1 3h1M35 7h1M41 7h1M45 7h1M52 7h2M51 8h1M16 9h1M50 9h1M53 9h1M57 9h1M60 9h1M12 10h1M17 10h1M49 10h1M52 10h1M66 10h1M51 11h1M12 12h1M15 12h1M51 12h1M26 13h1M49 13h1M52 13h1M57 13h1M66 13h1M50 14h1M53 14h1M51 15h1M1 18h1M3 19h2M7 19h2M11 19h1" />
-<path stroke="#3ba4db" d="M3 1h15M19 1h2M23 1h1M1 4h1M1 5h1M1 7h1M56 7h1M61 7h1M55 8h1M62 8h1M64 8h1M68 8h1M73 8h1M76 8h1M81 8h1M85 8h1M12 9h1M33 9h1M42 9h1M86 9h1M41 10h1M82 10h2M13 11h1M81 11h1M84 11h1M33 13h1M36 13h1M60 13h1M73 13h1M76 13h1M24 15h1M56 15h1M64 15h1M68 15h1M91 18h1M2 19h1M5 19h2M9 19h2M12 19h79" />
-<path stroke="#0077b5" d="M18 1h1M21 1h2M24 1h64M2 2h88M2 3h89M2 4h32M36 4h55M2 5h32M36 5h33M71 5h20M1 6h6M9 6h15M26 6h43M71 6h1M78 6h13M2 7h5M9 7h15M26 7h7M36 7h3M46 7h1M49 7h3M54 7h2M62 7h7M71 7h1M78 7h13M1 8h23M26 8h7M36 8h3M46 8h1M49 8h2M54 8h1M63 8h1M71 8h2M77 8h2M86 8h5M1 9h6M9 9h1M17 9h7M26 9h7M36 9h3M43 9h1M46 9h1M49 9h1M54 9h1M58 9h2M63 9h1M71 9h3M76 9h3M87 9h4M1 10h6M9 10h1M18 10h6M26 10h8M36 10h3M42 10h2M46 10h1M53 10h2M57 10h4M63 10h1M67 10h1M71 10h3M76 10h3M87 10h4M1 11h6M9 11h1M14 11h1M18 11h6M26 11h8M36 11h3M41 11h3M46 11h1M52 11h3M63 11h1M66 11h3M71 11h3M76 11h3M82 11h2M87 11h4M1 12h6M9 12h1M13 12h2M18 12h6M26 12h8M36 12h3M41 12h3M46 12h1M52 12h3M57 12h7M66 12h3M71 12h3M76 12h3M81 12h4M87 12h4M1 13h6M9 13h1M12 13h4M18 13h6M27 13h6M37 13h2M41 13h3M46 13h1M53 13h2M58 13h2M63 13h1M67 13h1M71 13h2M77 13h2M81 13h4M87 13h4M1 14h6M9 14h1M12 14h4M18 14h6M31 14h1M38 14h1M41 14h3M46 14h1M49 14h1M54 14h1M63 14h1M71 14h1M78 14h1M81 14h4M87 14h4M1 15h6M9 15h1M12 15h4M18 15h6M31 15h1M38 15h1M41 15h3M46 15h1M49 15h2M54 15h2M61 15h3M71 15h1M78 15h1M81 15h4M87 15h4M1 16h89M1 17h88M2 18h82M85 18h2" />
-<path stroke="#ffffff" d="M34 4h2M34 5h2M69 5h2M7 6h2M24 6h2M69 6h2M72 6h6M7 7h2M24 7h2M33 7h2M39 7h2M42 7h3M47 7h2M57 7h4M69 7h2M72 7h6M24 8h2M33 8h3M39 8h7M47 8h2M52 8h2M56 8h6M65 8h3M69 8h2M74 8h2M79 8h2M82 8h3M7 9h2M10 9h2M13 9h3M24 9h2M34 9h2M39 9h3M44 9h2M47 9h2M51 9h2M55 9h2M61 9h2M64 9h7M74 9h2M79 9h7M7 10h2M10 10h2M13 10h4M24 10h2M34 10h2M39 10h2M44 10h2M47 10h2M50 10h2M55 10h2M61 10h2M64 10h2M68 10h3M74 10h2M79 10h3M84 10h3M7 11h2M10 11h3M15 11h3M24 11h2M34 11h2M39 11h2M44 11h2M47 11h4M55 11h8M64 11h2M69 11h2M74 11h2M79 11h2M85 11h2M7 12h2M10 12h2M16 12h2M24 12h2M34 12h2M39 12h2M44 12h2M47 12h4M55 12h2M64 12h2M69 12h2M74 12h2M79 12h2M85 12h2M7 13h2M10 13h2M16 13h2M24 13h2M34 13h2M39 13h2M44 13h2M47 13h2M50 13h2M55 13h2M61 13h2M64 13h2M68 13h3M74 13h2M79 13h2M85 13h2M7 14h2M10 14h2M16 14h2M24 14h7M32 14h6M39 14h2M44 14h2M47 14h2M51 14h2M55 14h8M64 14h7M72 14h6M79 14h2M85 14h2M7 15h2M10 15h2M16 15h2M25 15h6M32 15h6M39 15h2M44 15h2M47 15h2M52 15h2M57 15h4M65 15h3M69 15h2M72 15h6M79 15h2M85 15h2" />
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 0 180 48" width="94" height="24">
+    <style>
+        text {
+            font-family: 'Lucida Grande', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-weight: 600;
+        }
+    </style>
+    <defs>
+        <linearGradient id="background" gradientTransform="rotate(90)">
+            <stop offset="0%" stop-color="#0c5b86" />
+            <stop offset="50%" stop-color="#0077b5" />
+            <stop offset="100%" stop-color="#31a5e3" />
+        </linearGradient>
+        <linearGradient id="gloss" gradientTransform="rotate(90)">
+            <stop offset="0%" stop-color="rgba(255, 255, 255, 0.8)" />
+            <stop offset="100%" stop-color="rgba(255, 255, 255, 0.1)" />
+        </linearGradient>
+        <radialGradient cy="100%" id="#glow">
+            <stop offset="0%" stop-color="rgba(255, 255, 255, 0.7)" />
+            <stop offset="100%" stop-color="transparent" />
+        </radialGradient>
+        <filter id="shadow" height="104">
+            <feDropShadow dx="0" dy="4" stdDeviation="4" />
+        </filter>
+        <symbol viewBox="0 0 32 32" id="cib-linkedin-in">
+            <path fill="currentColor"
+                d="M8.268 28H2.463V9.306h5.805zM5.362 6.756C3.506 6.756 2 5.218 2 3.362a3.362 3.362 0 0 1 6.724 0c0 1.856-1.506 3.394-3.362 3.394M29.994 28h-5.792v-9.1c0-2.169-.044-4.95-3.018-4.95c-3.018 0-3.481 2.356-3.481 4.794V28h-5.799V9.306h5.567v2.55h.081c.775-1.469 2.668-3.019 5.492-3.019c5.875 0 6.955 3.869 6.955 8.894V28z">
+            </path>
+        </symbol>
+    </defs>
+    <rect filter="url(#shadow)" width="165" height="38" rx="20" fill="url(#background)" stroke="rgba(12,91,134,0.8)" />
+    <use href="#cib-linkedin-in" width="24" height="24" x="14" y="7" color="white" />
+    <text font-size="24" x="45" y="28" fill="white">LinkedIn</text>
+    <rect width="145" height="15" rx="7.5" x="10" y="1.5" fill="url(#gloss)" />
 </svg>
