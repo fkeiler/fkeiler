@@ -1,31 +1,23 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 0 198 48" width="103" height="24">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 32" height="32" width="120">
     <style>
         text {
-            font-family: 'Lucida Grande', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-            font-weight: 600;
+            font-family: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
+            font-weight: 900;
         }
     </style>
     <defs>
-        <linearGradient id="background" gradientTransform="rotate(90)">
-            <stop offset="0%" stop-color="#2F0C7A" />
-            <stop offset="100%" stop-color="#6364FF" />
-        </linearGradient>
-        <linearGradient id="gloss" gradientTransform="rotate(90)">
-            <stop offset="0%" stop-color="#fff8" />
-            <stop offset="100%" stop-color="#fff3" />
-        </linearGradient>
-        <filter id="shadow" height="104">
-            <feDropShadow dx="0" dy="4" stdDeviation="4" />
-        </filter>
-        <symbol viewBox="0 0 16 16" id="pajamas-mastodon">
+        <symbol viewBox="0 0 24 24" id="ri-mastodon-fill">
             <path fill="currentColor"
-                d="M15.498 3.706C15.264 1.986 13.749.632 11.954.37C11.65.325 10.503.164 7.844.164h-.02c-2.66 0-3.23.161-3.533.206C2.546.625.951 1.842.565 3.582C.379 4.438.359 5.388.393 6.259C.443 7.51.453 8.756.567 10q.12 1.242.414 2.454c.368 1.49 1.856 2.731 3.314 3.237a9 9 0 0 0 4.848.253q.265-.06.525-.141c.39-.123.849-.26 1.186-.502l.01-.013l.005-.016v-1.206l-.004-.015a.04.04 0 0 0-.024-.02h-.016c-1.03.244-2.087.366-3.146.364c-1.824 0-2.314-.856-2.455-1.212a3.7 3.7 0 0 1-.213-.955a.035.035 0 0 1 .028-.036h.016a13.3 13.3 0 0 0 3.095.364q.375.002.751-.007c1.049-.03 2.154-.082 3.186-.281l.073-.016c1.627-.31 3.176-1.28 3.333-3.736c.006-.097.02-1.013.02-1.113c.002-.342.112-2.42-.015-3.697m-2.505 6.13h-1.71V5.69c0-.873-.368-1.318-1.116-1.318c-.822 0-1.234.526-1.234 1.566v2.27h-1.7v-2.27c0-1.04-.413-1.566-1.235-1.566c-.744 0-1.115.445-1.116 1.318v4.145h-1.71v-4.27q0-1.31.677-2.08c.464-.513 1.074-.776 1.83-.776q1.316 0 1.979.999l.426.706l.426-.706c.441-.666 1.103-.999 1.977-.999c.756 0 1.366.263 1.832.776q.675.77.676 2.08z">
+                d="M21.26 13.99c-.275 1.41-2.457 2.955-4.963 3.254c-1.306.156-2.593.3-3.965.236c-2.244-.103-4.014-.535-4.014-.535c0 .218.014.426.04.62c.292 2.215 2.196 2.347 4 2.41c1.82.061 3.44-.45 3.44-.45l.075 1.646s-1.273.684-3.54.81c-1.252.068-2.805-.032-4.613-.51c-3.923-1.039-4.598-5.22-4.701-9.464c-.032-1.26-.012-2.447-.012-3.44c0-4.34 2.843-5.611 2.843-5.611C7.283 2.298 9.742 2.021 12.3 2h.062c2.557.02 5.018.298 6.451.956c0 0 2.843 1.272 2.843 5.61c0 0 .036 3.201-.396 5.424m-2.957-5.087c0-1.074-.274-1.927-.823-2.558c-.566-.631-1.307-.955-2.228-.955c-1.065 0-1.872.41-2.405 1.228l-.518.87l-.519-.87C11.277 5.8 10.47 5.39 9.406 5.39c-.921 0-1.663.324-2.229.955c-.549.631-.822 1.484-.822 2.558v5.253h2.081V9.057c0-1.075.452-1.62 1.357-1.62c1 0 1.501.647 1.501 1.927v2.79h2.07v-2.79c0-1.28.5-1.927 1.5-1.927c.905 0 1.358.545 1.358 1.62v5.1h2.08z">
             </path>
         </symbol>
     </defs>
-    <rect filter="url(#shadow)" width="185" height="38" rx="20" fill="url(#background)" stroke="rgba(47,12,122,0.8)" />
-    <text font-size="24" x="48" y="28" fill="white">Mastodon</text>
-    <use href="#pajamas-mastodon" width="24" height="24" x="15" y="6" color="white" />
-    <rect width="165" height="15" rx="7.5" x="10" y="1.5" fill="url(#gloss)" />
+    <rect x="0" y="0" width="100%" height="100%" rx="6" fill="#2F0C7A" />
+    <rect x="2" y="6" width="116" height="24" rx="4" fill="#563ACC" />
+    <rect x="2" y="2" width="116" height="24" rx="4" fill="#6364FF" />
+    <use href="#ri-mastodon-fill" color="white" height="18" width="18" x="4" y="6" />
+    <text x="26" y="22" font-size="18" fill="white">
+        Mastodon
+    </text>
 </svg>

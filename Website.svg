@@ -1,32 +1,24 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 0 168 48" width="88" height="24">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 32" height="32" width="104">
     <style>
         text {
-            font-family: 'Lucida Grande', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-            font-weight: 600;
+            font-family: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
+            font-weight: 900;
         }
     </style>
     <defs>
-        <linearGradient id="background" gradientTransform="rotate(90)">
-            <stop offset="50%" stop-color="#dedede" />
-            <stop offset="100%" stop-color="#ffffff" />
-        </linearGradient>
-        <linearGradient id="gloss" gradientTransform="rotate(90)">
-            <stop offset="0%" stop-color="#fffd" />
-            <stop offset="100%" stop-color="#fff8" />
-        </linearGradient>
-        <filter id="shadow" height="104">
-            <feDropShadow dx="0" dy="4" stdDeviation="4" />
-        </filter>
-        <symbol viewBox="0 0 16 16" id="pajamas-earth">
-            <path fill="currentColor" fill-rule="evenodd"
-                d="M8 14.5c.23 0 .843-.226 1.487-1.514c.306-.612.563-1.37.742-2.236H5.771c.179.866.436 1.624.742 2.236C7.157 14.274 7.77 14.5 8 14.5M5.554 9.25a14.4 14.4 0 0 1 0-2.5h4.892a14.5 14.5 0 0 1 0 2.5zm6.203 1.5c-.224 1.224-.593 2.308-1.066 3.168a6.53 6.53 0 0 0 3.2-3.168zm2.623-1.5h-2.43a16 16 0 0 0 0-2.5h2.429a6.5 6.5 0 0 1 0 2.5Zm-10.331 0H1.62a6.5 6.5 0 0 1 0-2.5h2.43a16 16 0 0 0 0 2.5Zm-1.94 1.5h2.134c.224 1.224.593 2.308 1.066 3.168a6.53 6.53 0 0 1-3.2-3.168m3.662-5.5h4.458c-.179-.866-.436-1.624-.742-2.236C8.843 1.726 8.23 1.5 8 1.5s-.843.226-1.487 1.514c-.306.612-.563 1.37-.742 2.236m5.986 0h2.134a6.53 6.53 0 0 0-3.2-3.168c.473.86.842 1.944 1.066 3.168M5.31 2.082c-.473.86-.842 1.944-1.066 3.168H2.109a6.53 6.53 0 0 1 3.2-3.168ZM8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0"
-                clip-rule="evenodd"></path>
+        <symbol viewBox="0 0 24 24" id="simple-icons-firefoxbrowser">
+            <path fill="currentColor"
+                d="M8.824 7.287c.008 0 .004 0 0 0m-2.8-1.4c.006 0 .003 0 0 0m16.754 2.161c-.505-1.215-1.53-2.528-2.333-2.943c.654 1.283 1.033 2.57 1.177 3.53l.002.02c-1.314-3.278-3.544-4.6-5.366-7.477c-.091-.147-.184-.292-.273-.446a4 4 0 0 1-.13-.24a2 2 0 0 1-.172-.46a.03.03 0 0 0-.027-.03a.04.04 0 0 0-.021 0l-.006.001l-.01.005l.005-.008c-2.585 1.515-3.657 4.168-3.932 5.856a6.2 6.2 0 0 0-2.305.587a.297.297 0 0 0-.147.37c.057.162.24.24.396.17a5.6 5.6 0 0 1 2.008-.523l.067-.005a5.9 5.9 0 0 1 1.957.222l.095.03a6 6 0 0 1 .616.228q.12.054.238.112l.107.055a6 6 0 0 1 .368.211a5.95 5.95 0 0 1 2.034 2.104c-.62-.437-1.733-.868-2.803-.681c4.183 2.09 3.06 9.292-2.737 9.02a5.2 5.2 0 0 1-1.513-.292a4 4 0 0 1-.538-.232c-1.42-.735-2.593-2.121-2.74-3.806c0 0 .537-2 3.845-2c.357 0 1.38-.998 1.398-1.287c-.005-.095-2.029-.9-2.817-1.677c-.422-.416-.622-.616-.8-.767a4 4 0 0 0-.301-.227a5.4 5.4 0 0 1-.032-2.842c-1.195.544-2.124 1.403-2.8 2.163h-.006c-.46-.584-.428-2.51-.402-2.913c-.006-.025-.343.176-.389.206a8.4 8.4 0 0 0-1.136.974q-.596.606-1.085 1.303a9.8 9.8 0 0 0-1.562 3.52c-.003.013-.11.487-.19 1.073q-.02.135-.037.272a8 8 0 0 0-.069.667l-.002.034l-.023.387l-.001.06C.386 18.795 5.593 24 12.016 24c5.752 0 10.527-4.176 11.463-9.661q.028-.223.052-.448c.232-1.994-.025-4.09-.753-5.844z">
+            </path>
         </symbol>
     </defs>
-    <rect filter="url(#shadow)" width="155" height="38" rx="20" fill="url(#background)"
-        stroke="rgba(128, 128, 128, 0.5)" />
-    <use href="#pajamas-earth" height="24" width="24" x="13" y="6" color="black" />
-    <text font-size="24" x="44" y="28" fill="black">Website</text>
-    <rect width="135" height="15" x="10" y="1.5" rx="7.5" fill="url(#gloss)" />
+    <rect x="0" y="0" width="100%" height="100%" rx="6" fill="oklch(28.358% 0.2495 257.68)" />
+    <rect x="2" y="6" width="100" height="24" rx="4" fill="oklch(38.358% 0.2495 257.68)" />
+    <rect x="2" y="2" width="100" height="24" rx="4" fill="oklch(48.358% 0.2495 257.68)" />
+    <use href="#simple-icons-firefoxbrowser" width="18" height="18" x="6" y="5.5"
+        color="oklch(98.533% 0.32762 271.8)" />
+    <text x="28" y="21" font-size="18" fill="oklch(98.533% 0.32762 271.8)">
+        Website
+    </text>
 </svg>
