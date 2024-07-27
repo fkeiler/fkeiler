@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Download SVG file
-        run: curl https://listens-widget.fly.dev/listens/fkeiler > listens.svg
+        run: curl https://listens-widget-9sgkkcco.fermyon.app/listenbrainz/fkeiler > listens.svg
       - name: Configure git
         run: |
           git config user.name "Github Actions"
