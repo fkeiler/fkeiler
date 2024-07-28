@@ -32,13 +32,13 @@ stroke-width="0.5" rx="4" />
 <g id="listens" transform="translate(8, 24)"  font-size="4">
 
 <g class="listen" transform="translate(0, 0)">
-<text class="title">1. All the time / Tout le temps</text>
-<text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;The Knocks</text>
+<text class="title">1. Frankenstein</text>
+<text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Rina Sawayama</text>
 </g>
 
 <g class="listen" transform="translate(0, 10)">
-<text class="title">2. Supernatural</text>
-<text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;NewJeans</text>
+<text class="title">2. All the time / Tout le temps</text>
+<text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;The Knocks</text>
 </g>
 
 <g class="listen" transform="translate(0, 20)">
