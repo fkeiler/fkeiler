@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 31" width="300" height="93">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 58" width="300" height="174">
 <style>
 * {
 font-family: monospace;
@@ -30,6 +30,21 @@ stroke-width="0.5" rx="4" />
 </g>
 <text x="8" y="18" font-size="4">$ Get-Recent-Listens fkeiler</text>
 <g id="listens" transform="translate(8, 24)"  font-size="4">
+
+<g class="listen" transform="translate(0, 0)">
+<text class="title">1. Hold On To Now</text>
+<text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kylie Minogue</text>
+</g>
+
+<g class="listen" transform="translate(0, 10)">
+<text class="title">2. je t&#039;aime ★ je t&#039;aime</text>
+<text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Tommy february6</text>
+</g>
+
+<g class="listen" transform="translate(0, 20)">
+<text class="title">3. I ONLY WANT TO BE WITH YOU</text>
+<text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Tommy february6</text>
+</g>
 
 </g>
 </svg>
