@@ -32,18 +32,18 @@ stroke-width="0.5" rx="4" />
 <g id="listens" transform="translate(8, 24)"  font-size="4">
 
 <g class="listen" transform="translate(0, 0)">
-<text class="title">1. Hacker</text>
-<text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Death Grips</text>
+<text class="title">1. I Ain&#039;t Got Time!</text>
+<text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Tyler, The Creator</text>
 </g>
 
 <g class="listen" transform="translate(0, 10)">
-<text class="title">2. Rage</text>
-<text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Rico Nasty</text>
+<text class="title">2. Hacker</text>
+<text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Death Grips</text>
 </g>
 
 <g class="listen" transform="translate(0, 20)">
-<text class="title">3. Brilha La Luna (Vídeoe Oficial)</text>
-<text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Rouge</text>
+<text class="title">3. Rage</text>
+<text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Rico Nasty</text>
 </g>
 
 </g>
