@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Cut To The Feeling
+                    1. GODDESS
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Carly Rae Jepsen</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;PVRIS</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. EAT ME (feat. Royal & the Serpent)
+                    2. Cut To The Feeling
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Demi Lovato, Royal & the Serpent</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Carly Rae Jepsen</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Bonito Intro
+                    3. EAT ME (feat. Royal & the Serpent)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kero Kero Bonito</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Demi Lovato, Royal & the Serpent</text>
             </g>
         </g>
     </g>
