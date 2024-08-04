@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Immaterial
+                    1. Supernatural
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;SOPHIE</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;NewJeans</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Cut To The Feeling
+                    2. Immaterial
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Carly Rae Jepsen</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;SOPHIE</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. G.U.Y.
+                    3. Cut To The Feeling
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Carly Rae Jepsen</text>
             </g>
         </g>
     </g>
