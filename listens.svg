@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. LoveGame
-                </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga</text>
-            </g>
-            <g class="listen" transform="translate(0, 10)">
-                <text class="title">
-                    2. Hung Up
+                    1. Get Together
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Madonna</text>
             </g>
+            <g class="listen" transform="translate(0, 10)">
+                <text class="title">
+                    2. LoveGame
+                </text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga</text>
+            </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Maneater
+                    3. Hung Up
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Nelly Furtado</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Madonna</text>
             </g>
         </g>
     </g>
