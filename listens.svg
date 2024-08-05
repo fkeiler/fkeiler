@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Get Together
+                    1. Rockstar
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Madonna</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;LISA</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. LoveGame
+                    2. Angel Of My Dreams
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;JADE</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Hung Up
+                    3. JOYRIDE
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Madonna</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kesha</text>
             </g>
         </g>
     </g>
