@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Guess featuring Billie Eilish
+                    1. Is this bad b****** number? (Feat. 비비(BIBI), 이영지)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli xcx, Billie Eilish</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;전소연</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Von dutch
+                    2. Guess featuring Billie Eilish
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli xcx</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli xcx, Billie Eilish</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Mamushi (feat. Yuki Chiba)
+                    3. Von dutch
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Megan Thee Stallion, 千葉雄喜</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli xcx</text>
             </g>
         </g>
     </g>
