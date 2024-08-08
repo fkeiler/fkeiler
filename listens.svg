@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Love Don't Cost a Thing
+                    1. End Of An Era
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Jennifer Lopez</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Dua Lipa</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Wannabe
+                    2. Guess featuring Billie Eilish
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Spice Girls</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli xcx, Billie Eilish</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Potential Breakup Song
+                    3. JOYRIDE
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Aly & AJ</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kesha</text>
             </g>
         </g>
     </g>
