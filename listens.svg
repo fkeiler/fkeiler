@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Wannabe
+                    1. Love Don't Cost a Thing
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Spice Girls</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Jennifer Lopez</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Potential Breakup Song
+                    2. Wannabe
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Aly & AJ</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Spice Girls</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. all-american bitch
+                    3. Potential Breakup Song
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Olivia Rodrigo</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Aly & AJ</text>
             </g>
         </g>
     </g>
