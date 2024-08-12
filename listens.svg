@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. favorite sped up
+                    1. Free (with Ellie Goulding)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Isabel LaRosa</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Calvin Harris, Ellie Goulding</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. LUNCH
+                    2. Heart Attack (츄)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Billie Eilish</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;LOONA</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Candy
+                    3. favorite sped up
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Doja Cat</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Isabel LaRosa</text>
             </g>
         </g>
     </g>
