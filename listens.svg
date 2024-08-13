@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Cosmic
+                    1. Von dutch
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Red Velvet</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli xcx</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Girls Never Die
+                    2. laced up
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;tripleS</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;tsubi club</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. PIRI
+                    3. Cosmic
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Dreamcatcher</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Red Velvet</text>
             </g>
         </g>
     </g>
