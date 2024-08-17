@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. 2010 Toyota Corolla
+                    1. LUNCH
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;2003 Toyota Corolla</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Billie Eilish</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. 2008 Toyota Corolla
+                    2. SKINNY
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;2003 Toyota Corolla</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Billie Eilish</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Wii Party
+                    3. Identification
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;void angel</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Infinity Frequencies</text>
             </g>
         </g>
     </g>
