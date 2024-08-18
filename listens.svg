@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Lotus Waters
+                    1. 0330
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Opunkt</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;koronba</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. レイテンシーガール
+                    2. Lotus Waters
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;フレネシ</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Opunkt</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Meow
+                    3. レイテンシーガール
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;lvusm</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;フレネシ</text>
             </g>
         </g>
     </g>
