@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. FFVII REMAKE: プレリュード -再会- (The Prelude - Reunion)
+                    1. Zanarkand
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Nobuo Uematsu</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Perfect (Exceeder)
+                    2. FFVII REMAKE: プレリュード -再会- (The Prelude - Reunion)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;David Guetta, Mason, Princess Superstar</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Nobuo Uematsu</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Rush
+                    3. Perfect (Exceeder)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Troye Sivan</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;David Guetta, Mason, Princess Superstar</text>
             </g>
         </g>
     </g>
