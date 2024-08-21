@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Mamushi
+                    1. XS
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Megan Thee Stallion</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Rina Sawayama</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Grown Woman
+                    2. Mamushi
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Beyoncé</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Megan Thee Stallion</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. NEW WOMAN
+                    3. Grown Woman
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lisa</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Beyoncé</text>
             </g>
         </g>
     </g>
