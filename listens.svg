@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Limbo
+                    1. MEOW
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kylie Minogue</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;STAYC</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. je t'aime ★ je t'aime
+                    2. Limbo
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Tommy february6</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kylie Minogue</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Die With A Smile
+                    3. je t'aime ★ je t'aime
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga, Bruno Mars</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Tommy february6</text>
             </g>
         </g>
     </g>
