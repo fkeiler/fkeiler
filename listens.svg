@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Deja Vu (feat. Jay-Z)
+                    1. When Love Takes Over (feat. Kelly Rowland)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Beyoncé, JAY-Z</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;David Guetta, Kelly Rowland</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Deja Vu (feat. Jay-Z)
+                    2. Get Busy
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Beyoncé, JAY-Z</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Sean Paul</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Suga Mama
+                    3. Pon de Replay
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Beyoncé</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Rihanna</text>
             </g>
         </g>
     </g>
