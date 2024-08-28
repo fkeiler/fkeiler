@@ -40,19 +40,19 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Fly High
+                    1. 寂寞烟火
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ATARASHII GAKKO!</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Akini Jing</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Tokyo Calling
+                    2. Toryanse
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ATARASHII GAKKO!</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. OTONABLUE
+                    3. Fly High
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ATARASHII GAKKO!</text>
             </g>
