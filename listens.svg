@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. OTONABLUE
+                    1. Fly High
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ATARASHII GAKKO!</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. OTONABLUE
+                    2. Tokyo Calling
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ATARASHII GAKKO!</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. I'm in the mood for dancing
+                    3. OTONABLUE
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Tommy february6</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ATARASHII GAKKO!</text>
             </g>
         </g>
     </g>
