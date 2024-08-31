@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Wait A Minute Closed Captioned
+                    1. CRAZY
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;The Pussycat Dolls</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;HYBE Labels</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. encore
+                    2. Wait A Minute Closed Captioned
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Club Shy, Danny L Harle, & Shygirl</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;The Pussycat Dolls</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. CRAZY
+                    3. encore
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;HYBE Labels</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Club Shy, Danny L Harle, & Shygirl</text>
             </g>
         </g>
     </g>
