@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Girls & Boys
+                    1. Freedom! ’90
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Blur</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;George Michael</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Perfume
+                    2. Girls & Boys
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;The Dare</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Blur</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Boy Problems
+                    3. Perfume
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Carly Rae Jepsen</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;The Dare</text>
             </g>
         </g>
     </g>
