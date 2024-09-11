@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. TTYL
+                    1. Underground • アンダーグラウンド
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Loossemble</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;f5ve</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Virtual Angel
+                    2. TTYL
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ARTMS</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Loossemble</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Perfect Places
+                    3. Virtual Angel
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lorde</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ARTMS</text>
             </g>
         </g>
     </g>
