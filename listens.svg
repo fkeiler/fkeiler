@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Back Again
+                    1. Sunset
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Chanyeol</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Caroline Polachek</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Run Away
+                    2. Sunset
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Tzuyu</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Caroline Polachek</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. I Really Want to Stay at Your House (feat. Hallie Coggins)
+                    3. Back Again
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Rosa Walton</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Chanyeol</text>
             </g>
         </g>
     </g>
