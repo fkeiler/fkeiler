@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Love Me Anyway
+                    1. You Need Me Now? (feat. Sabrina Carpenter)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Chappell Roan</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;girl in red, Sabrina Carpenter</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. love is embarrassing
+                    2. touch tank
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Olivia Rodrigo</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;quinnie</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. doomsday
+                    3. Night Shift
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lizzy McAlpine</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lucy Dacus</text>
             </g>
         </g>
     </g>
