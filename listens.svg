@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. American Teenager
-                </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Ethel Cain</text>
-            </g>
-            <g class="listen" transform="translate(0, 10)">
-                <text class="title">
-                    2. My Kink Is Karma
+                    1. Love Me Anyway
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Chappell Roan</text>
             </g>
+            <g class="listen" transform="translate(0, 10)">
+                <text class="title">
+                    2. love is embarrassing
+                </text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Olivia Rodrigo</text>
+            </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Supernova
+                    3. doomsday
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;aespa</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lizzy McAlpine</text>
             </g>
         </g>
     </g>
