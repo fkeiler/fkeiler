@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Cardinal
+                    1. Deeper Well
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kacey Musgraves</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. CRAZY (Vogue Remix) (feat. Dashaun Wesley)
+                    2. Cardinal
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;LE SSERAFIM, Dashaun Wesley</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kacey Musgraves</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Perfume
+                    3. CRAZY (Vogue Remix) (feat. Dashaun Wesley)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;The Dare</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;LE SSERAFIM, Dashaun Wesley</text>
             </g>
         </g>
     </g>
