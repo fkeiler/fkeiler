@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Juicy
+                    1. Talk talk featuring troye sivan
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Daoko</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli xcx, Troye Sivan</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. ステップアップLOVE
+                    2. GORGEOUS (feat. Kim Petras)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Daoko, Yasuyuki Okamura</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Katy Perry, Kim Petras</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. 打上花火
+                    3. Dancing With My Fingers
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Daoko, Kenshi Yonezu</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;MIYAVI, Daichi Miura</text>
             </g>
         </g>
     </g>
