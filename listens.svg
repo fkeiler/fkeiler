@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Spandrel?
+                    1. Talk talk featuring troye sivan
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Evita Manji</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli xcx, Troye Sivan</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Starburned and Unkissed
+                    2. 360 featuring robyn and yung lean
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Caroline Polachek</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli xcx, Robyn, Yung Lean</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Never Need Me
+                    3. Spandrel?
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Rachel Chinouriri</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Evita Manji</text>
             </g>
         </g>
     </g>
