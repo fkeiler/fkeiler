@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. ON THE GROUND
+                    1. Crush
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Rosé</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Weki Meki</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. New Woman
+                    2. Panorama
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lisa</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;IZ*ONE</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Lights Camera Action
+                    3. ON THE GROUND
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kylie Minogue</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Rosé</text>
             </g>
         </g>
     </g>
