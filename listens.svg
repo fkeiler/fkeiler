@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Classified
+                    1. Sunset
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;OH MY GIRL</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Caroline Polachek</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Classified
+                    2. Lights Camera Action
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;OH MY GIRL</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kylie Minogue</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. BITCH YOU COULD NEVER
+                    3. Lights Camera Action
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Yseult</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kylie Minogue</text>
             </g>
         </g>
     </g>
