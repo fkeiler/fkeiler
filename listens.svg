@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. dance dance
+                    1. Classified
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lexie Liu</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;OH MY GIRL</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Guess featuring Billie Eilish
+                    2. dance dance
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli xcx, Billie Eilish</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lexie Liu</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Sunset
+                    3. Guess featuring Billie Eilish
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Caroline Polachek</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli xcx, Billie Eilish</text>
             </g>
         </g>
     </g>
