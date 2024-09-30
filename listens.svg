@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Angel Music
+                    1. search & destroy
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Ninajirachi, MGNA Crrrta</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ericdoa</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Daijoubu Desu
+                    2. Angel Music
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;HARU NEMURI, Frost Children</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Ninajirachi, MGNA Crrrta</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. No Comma
+                    3. Daijoubu Desu
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Slayyyter</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;HARU NEMURI, Frost Children</text>
             </g>
         </g>
     </g>
