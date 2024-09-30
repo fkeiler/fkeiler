@@ -40,19 +40,19 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Future Nostalgia
+                    1. Don't Start Now
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Dua Lipa</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. 복합성 (Complexity)
+                    2. Future Nostalgia
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;tripleS</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Dua Lipa</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Girls' Capitalism
+                    3. 복합성 (Complexity)
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;tripleS</text>
             </g>
