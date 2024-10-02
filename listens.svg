@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Talk talk featuring troye sivan
+                    1. Obsessed (feat. Ashley Sienna)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli xcx, Troye Sivan</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Sophie Powers, Ashley Sienna</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Yummy
+                    2. Talk talk featuring troye sivan
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Ayesha Erotica</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli xcx, Troye Sivan</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. PUNK TACTICS
+                    3. Yummy
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Joey Valence & Brae</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Ayesha Erotica</text>
             </g>
         </g>
     </g>
