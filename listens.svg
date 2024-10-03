@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. THE DINER
+                    1. Debut
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Billie Eilish</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;KATSEYE</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Telephone
+                    2. Strawberry Rush
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga, Beyoncé</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;CHUU</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Hello goodbye
+                    3. Rockstar - Extended
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli xcx</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;LISA</text>
             </g>
         </g>
     </g>
