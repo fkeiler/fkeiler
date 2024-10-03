@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. MANIAC
+                    1. BOP BOP!
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;VIVIZ</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. After Midnight
+                    2. MANIAC
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Chappell Roan</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;VIVIZ</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. BREE RUNWAY - 2BADGYALZ (Visualiser)
+                    3. After Midnight
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Bree Runway</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Chappell Roan</text>
             </g>
         </g>
     </g>
