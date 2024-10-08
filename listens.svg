@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. we can’t be friends (wait for your love) - live version
+                    1. Good Time
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Ariana Grande</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;The Dare</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Get Back
+                    2. No Comma
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Britney Spears</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Slayyyter</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. HE KNOWS (feat. Lil Nas X)
+                    3. Talk talk featuring troye sivan
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Camila Cabello, Lil Nas X</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli xcx, Troye Sivan</text>
             </g>
         </g>
     </g>
