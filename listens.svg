@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Talk To Me
+                    1. No Comma
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Two Shell, FKA twigs</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Slayyyter</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. I might say something stupid
+                    2. Falling Forever
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli xcx</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Dua Lipa</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Lifetimes
+                    3. Talk To Me
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Katy Perry</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Two Shell, FKA twigs</text>
             </g>
         </g>
     </g>
