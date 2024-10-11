@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. obsessed
+                    1. Alter Ego (with JT)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Olivia Rodrigo</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Doechii, JT</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. JOYRIDE
+                    2. obsessed
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kesha</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Olivia Rodrigo</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Little Red Riding Good
+                    3. JOYRIDE
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;cupcakKe</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kesha</text>
             </g>
         </g>
     </g>
