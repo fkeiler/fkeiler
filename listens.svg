@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Maps
+                    1. ROM/PTBR)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Yeah Yeah Yeahs</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;LOONA (이달의 소녀) 'Stay with me babe (Hyper Ballad)' (Color Coded Lyrics HAN</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Tom's Diner
+                    2. Maps
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Giorgio Moroder</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Yeah Yeah Yeahs</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. BITCH YOU COULD NEVER
+                    3. Tom's Diner
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Yseult</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Giorgio Moroder</text>
             </g>
         </g>
     </g>
