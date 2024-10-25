@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Aquamarine
+                    1. disease
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Addison Rae</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Hit the Floor
+                    2. Aquamarine
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Triples</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Addison Rae</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Whiplash
+                    3. Hit the Floor
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;SMTOWN</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Triples</text>
             </g>
         </g>
     </g>
