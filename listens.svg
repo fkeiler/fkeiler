@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Supersonic
+                    1. Drama
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;FROMIS_9</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;aespa</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. ILLIT (아일릿) ‘Tick-Tack’ Official MV
+                    2. Supersonic
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;HYBE Labels</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;FROMIS_9</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Drums of Death
+                    3. ILLIT (아일릿) ‘Tick-Tack’ Official MV
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;FKA twigs & Koreless</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;HYBE Labels</text>
             </g>
         </g>
     </g>
