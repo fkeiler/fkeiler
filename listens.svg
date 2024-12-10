@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Yves イヴ 이브
+                    1. Strategy
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Viola</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;TWICE</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. #menow
+                    2. Supersonic
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;FROMIS_9</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Supersonic
+                    3. Sugar Water Cyanide
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;FROMIS_9</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Rebecca Black</text>
             </g>
         </g>
     </g>
