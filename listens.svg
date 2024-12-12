@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Whiplash
+                    1. LOVE DIVE
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;aespa</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;IVE</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Sugar Water Cyanide
+                    2. ETA
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Rebecca Black</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;NewJeans</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. So I
+                    3. Whiplash
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli XCX</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;aespa</text>
             </g>
         </g>
     </g>
