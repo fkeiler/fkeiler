@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Aquamarine
+                    1. Whiplash
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Addison Rae</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;aespa</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Slow Song (with Dragonette) (part. Dragonette)
+                    2. Aquamarine
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;The Knocks</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Addison Rae</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. I Love Hollywood!
+                    3. Slow Song (with Dragonette) (part. Dragonette)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Slayyyter</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;The Knocks</text>
             </g>
         </g>
     </g>
