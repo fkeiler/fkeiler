@@ -40,19 +40,19 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. alex g
+                    1. Supernova
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;chiara savasta</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;aespa</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. julia's song
+                    2. Love Is a Stranger
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;chiara savasta</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Eurythmics</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. heaven
+                    3. alex g
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;chiara savasta</text>
             </g>
