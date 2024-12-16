@@ -40,19 +40,19 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Defying Gravity
+                    1. Cardinal
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Cynthia Erivo</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kacey Musgraves</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Angel Of Satisfaction
+                    2. Defying Gravity
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Rose Gray</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Cynthia Erivo</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Wet & Wild
+                    3. Angel Of Satisfaction
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Rose Gray</text>
             </g>
