@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Green Calx
+                    1. We Are the Music Makers
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Aphex Twin</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. THE BADDEST (BADDER) [feat. Ayesha Erotica]
+                    2. Heliosphan
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Joey Valence & Brae</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Aphex Twin</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. JOHN CENA
+                    3. Green Calx
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Joey Valence & Brae</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Aphex Twin</text>
             </g>
         </g>
     </g>
