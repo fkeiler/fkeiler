@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Super Shy
+                    1. Supernova
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;NewJeans</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;aespa</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. New Jeans
+                    2. Super Shy
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;NewJeans</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. love dive
+                    3. New Jeans
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Ive</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;NewJeans</text>
             </g>
         </g>
     </g>
