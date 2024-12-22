@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Supernova
+                    1. Hot Pink
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;aespa</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;EXID</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Super Shy
+                    2. LA DI DA
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;NewJeans</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;EVERGLOW</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. New Jeans
+                    3. Supernova
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;NewJeans</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;aespa</text>
             </g>
         </g>
     </g>
