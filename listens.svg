@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Up & Down
+                    1. Flower Rhythm
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;EXID</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ARTMS</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Hot Pink
+                    2. The Hitchhiker's Guide to the Galaxy
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;EXID</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ARTMS</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. LA DI DA
+                    3. Sparkle
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;EVERGLOW</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ARTMS</text>
             </g>
         </g>
     </g>
