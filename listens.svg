@@ -40,19 +40,19 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Good Conscience
+                    1. 360
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Chiara Savasta</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli XCX</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. brand new girl, brand new machine
+                    2. Spring breakers featuring kesha
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Chiara Savasta</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli XCX</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. 360
+                    3. Guess featuring billie eilish
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli XCX</text>
             </g>
