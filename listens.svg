@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Burqa (2012 Demo Leak)
+                    1. Supersonic
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;FROMIS_9</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Kill My Boyfriend
+                    2. You and I(너와 나)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Natalia Kills</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ELRIS</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. All Fired Up
+                    3. Burqa (2012 Demo Leak)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;The Saturdays</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga</text>
             </g>
         </g>
     </g>
