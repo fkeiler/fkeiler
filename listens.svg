@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Soon You’ll Get Better
+                    1. California Gurls
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Taylor Swift</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Katy Perry</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. London Boy
+                    2. Babylon (Haus Labs Version)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Taylor Swift</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Death By A Thousand Cuts
+                    3. Babylon (Bree Runway & Jimmy Edgar Remix)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Taylor Swift</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga</text>
             </g>
         </g>
     </g>
