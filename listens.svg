@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Tick-Tack
+                    1. No One Mourns The Wicked (From Wicked The Soundtrack)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Illit</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Republic Records</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. I Really Want To Stay At Your House
+                    2. Tick-Tack
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Let's Eat Grandma</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Illit</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Sad Girls Club
+                    3. I Really Want To Stay At Your House
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;The Deep</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Let's Eat Grandma</text>
             </g>
         </g>
     </g>
