@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Boys Boys Boys
+                    1. I Love You But I Love Me More
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Marina</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Starstruck
+                    2. Pandora's Box
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Marina</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Money Honey
+                    3. New America
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Marina</text>
             </g>
         </g>
     </g>
