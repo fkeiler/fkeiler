@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. How Deep Is Your Love
+                    1. My Way
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Calvin Harris</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Free
+                    2. This Is What You Came For
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Calvin Harris</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. The Cruel Angel's Thesis (Director's Edit Version)
+                    3. How Deep Is Your Love
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Takahashi Yoko</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Calvin Harris</text>
             </g>
         </g>
     </g>
