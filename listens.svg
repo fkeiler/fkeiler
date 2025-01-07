@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Promises
+                    1. Night Call
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Calvin Harris</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Olly Alexander (Years & Years)</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. One Kiss
+                    2. Starstruck
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Calvin Harris</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Olly Alexander (Years & Years)</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. My Way
+                    3. Consequences
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Calvin Harris</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Olly Alexander (Years & Years)</text>
             </g>
         </g>
     </g>
