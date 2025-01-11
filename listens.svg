@@ -40,19 +40,19 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Flyday Chinatown
+                    1. HEAT
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Yasuha</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Tove Lo</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Shy Boy
+                    2. Flyday Chinatown
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Carly Rae Jepsen</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Yasuha</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Aeroplanes
+                    3. Shy Boy
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Carly Rae Jepsen</text>
             </g>
