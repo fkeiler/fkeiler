@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. HEAT
+                    1. Elevator Eyes
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Tove Lo</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Flyday Chinatown
+                    2. Remember
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Yasuha</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Becky Hill</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Shy Boy
+                    3. Don't Call Me Up
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Carly Rae Jepsen</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Mabel</text>
             </g>
         </g>
     </g>
