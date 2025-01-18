@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Pain/Pleasure
+                    1. It Girl
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kah-Lo</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. June Baby
+                    2. Pain/Pleasure
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Victoria Canal</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kah-Lo</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. 360 featuring robyn & yung lean
+                    3. June Baby
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli XCX</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Victoria Canal</text>
             </g>
         </g>
     </g>
