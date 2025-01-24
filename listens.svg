@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Sparkle
+                    1. オトノケ
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ARTMS</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Creepy Nuts</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Virtual Angel
+                    2. 티엠씨(TMC)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ARTMS</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Trouble Maker</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. So I featuring a. g. cook
+                    3. Sparkle
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli XCX</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ARTMS</text>
             </g>
         </g>
     </g>
