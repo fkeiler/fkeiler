@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. That! Feels Good!
+                    1. Somebody Else
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Jessie Ware</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Alessia Cara</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Mean girls featuring julian casablancas
+                    2. So Hot You're Hurting My Feelings
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli XCX</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Caroline Polachek</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. B2b featuring tinashe
+                    3. These Lips
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli XCX</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Jessie Ware</text>
             </g>
         </g>
     </g>
