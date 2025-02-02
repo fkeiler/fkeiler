@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Neverender (Radio Edit)
+                    1. TRUST!
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Justice</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Rebecca Black</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Waters of Nazareth
+                    2. 365 featuring shygirl
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Justice</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli XCX</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Sugar Water Cyanide
+                    3. Generator
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Rebecca Black</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Justice</text>
             </g>
         </g>
     </g>
