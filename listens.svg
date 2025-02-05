@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. End Of An Era
+                    1. American Boy
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Dua Lipa</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Estelle</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. BRAND NEW BITCH
+                    2. Whatcha Doing
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Cobrah</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Dua Lipa</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Atopos
+                    3. These Walls
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Björk</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Dua Lipa</text>
             </g>
         </g>
     </g>
