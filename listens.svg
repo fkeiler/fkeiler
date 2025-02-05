@@ -40,19 +40,19 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. disease
+                    1. 360
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli XCX</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Abracadabra
+                    2. Kiss Me (feat. Rina Sawayama)
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Empress Of</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Abracadabra
+                    3. disease
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga</text>
             </g>
