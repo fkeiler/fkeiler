@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Atopos
+                    1. End Of An Era
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Björk</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Dua Lipa</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Sticky
+                    2. BRAND NEW BITCH
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Tyler, The Creator</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Cobrah</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. 360
+                    3. Atopos
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli XCX</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Björk</text>
             </g>
         </g>
     </g>
