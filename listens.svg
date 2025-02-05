@@ -40,19 +40,19 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. 3.14159
+                    1. Abracadabra
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lexie Liu</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lady Gaga</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. dance dance
+                    2. 3.14159
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lexie Liu</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. FORTUNA
+                    3. dance dance
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lexie Liu</text>
             </g>
