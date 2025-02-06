@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. CANDY
+                    1. LA FAMA
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ROSALÍA</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. SAOKO
+                    2. CANDY
                 </text>
                 <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ROSALÍA</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Atopos
+                    3. SAOKO
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Björk</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ROSALÍA</text>
             </g>
         </g>
     </g>
