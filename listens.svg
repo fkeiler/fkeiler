@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Catallena
+                    1. MAGO
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Orange Caramel</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;GFRIEND</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. THUNDER
+                    2. Season of Memories
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Cix</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;GFRIEND</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Desire
+                    3. Abracadabra
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Tove Lo</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Brown Eyed Girls</text>
             </g>
         </g>
     </g>
