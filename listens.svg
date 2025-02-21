@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. 365
+                    1. earthquake
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli XCX</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;JiSoo</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. 365
+                    2. BORN AGAIN feat. Doja Cat & RAYE
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli XCX</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Lisa</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. Secrets (Your Fire)
+                    3. 365
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;MAGDALENA BAY</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Charli XCX</text>
             </g>
         </g>
     </g>
