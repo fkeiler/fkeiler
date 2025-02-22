@@ -40,21 +40,21 @@
         <g id="listens" transform="translate(8, 24)" font-size="4">
             <g class="listen" transform="translate(0, 0)">
                 <text class="title">
-                    1. Too Much
+                    1. Sticky
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Dove Cameron</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Kiss Of Life</text>
             </g>
             <g class="listen" transform="translate(0, 10)">
                 <text class="title">
-                    2. Too Much
+                    2. Tick-Tack
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Dove Cameron</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;ILLit</text>
             </g>
             <g class="listen" transform="translate(0, 20)">
                 <text class="title">
-                    3. superstar loser
+                    3. Too Much
                 </text>
-                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Chiara Savasta</text>
+                <text class="subtitle" dy="5">&#xA0;&#xA0;&#xA0;Dove Cameron</text>
             </g>
         </g>
     </g>
