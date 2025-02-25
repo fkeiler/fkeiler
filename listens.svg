@@ -58,7 +58,7 @@
         }
 
         svg {
-            font-family: "Inter", sans-serif;
+            font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
             font-size: 11px;
         }
 
