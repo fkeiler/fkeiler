@@ -14,7 +14,7 @@
 
         .button {
             fill: light-dark(#eff2f5, #262c36);
-            stroke: light-dark(#d1d9e0, #3d44d);
+            stroke: light-dark(#d1d9e0, #3d444d);
         }
 
         .icon {
