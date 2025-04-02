@@ -5,32 +5,29 @@ on:
   workflow_dispatch:
 jobs:
   update_listens:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
     continue-on-error: true
 
     steps:
       - uses: actions/checkout@v4
-      - uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 3.4
       - name: Generate SVG
-        run: ruby scripts/listens.rb > listens.svg
+        run: php scripts/listens.svg.php > listens.svg
       - name: Commit changes (if any)
         run: |
-          echo "::debug::Configuring Github Actions as git user"
+          echo "::debug:: :gear: Configuring Github Actions as git user"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          echo "::debug::Adding listens file"
+          echo "::debug:: :open_file_folder: Adding listens file"
           git add listens.svg
           if [[ -n $(git status --porcelain) ]]; then
-            echo "::debug::Commiting listens file"
+            echo "::debug:: :memo: Committing listens file"
             git commit -m ":bento: Change Recent Listens"
-            echo "::debug::Syncing with main branch"
+            echo "::debug:: :arrows_counterclockwise: Syncing with main branch"
             git fetch origin master
-            echo "::debug::Pushing changes..."
+            echo "::debug:: :arrow_up: Pushing changes..."
             git push origin HEAD:master
             echo "# Listens updated successfully" >> $GITHUB_STEP_SUMMARY
           else
-            echo "::notice::No changes to recent listens."
+            echo "::notice:: :white_check_mark: No changes to recent listens."
             echo "# No changes detected" >> $GITHUB_STEP_SUMMARY
           fi
