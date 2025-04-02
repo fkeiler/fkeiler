@@ -32,7 +32,7 @@ $listens = array_map('to_listen', $response->payload->listens)
         }
 
         .color-bg-default {
-            fill: light-dark(#fff, #010409);
+            fill: light-dark(#fff, #0d1117);
         }
 
         .color-fg-muted {
