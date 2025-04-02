@@ -5,11 +5,13 @@ on:
   workflow_dispatch:
 jobs:
   update_listens:
-    runs-on: macos-latest-large
+    runs-on: ubuntu-latest
     continue-on-error: true
 
     steps:
       - uses: actions/checkout@v4
+      - name: Install PHP
+        run: apt-get update && apt-get install -y php-cli
       - name: Generate SVG
         run: php scripts/listens.svg.php > listens.svg
       - name: Commit changes (if any)
