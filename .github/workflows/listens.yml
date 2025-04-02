@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 jobs:
   update_listens:
-    runs-on: macos-15-xlarge
+    runs-on: macos-latest-large
     continue-on-error: true
 
     steps:
