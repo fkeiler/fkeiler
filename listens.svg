@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2025-05-18T09:38:39+00:00</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Illegal</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">PinkPantheress</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">5 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Gnarly</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Katseye</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2025-05-18T08:52:37+00:00</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Guess</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Charli xcx</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Eye Candy</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">from20</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2025-05-18T08:50:47+00:00</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">28 Reasons</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">SEULGI</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Shoulda Known Better</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Nasty Cherry</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2025-05-18T08:48:30+00:00</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">GNARLY</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Katseye</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">2025-05-18T09:38:39+00:00</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Illegal</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">PinkPantheress</text>
                 </g>
                     </g>
     </g>
