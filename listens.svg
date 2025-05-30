@@ -37,26 +37,26 @@
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
                     <text class="color-fg-muted" x="16" y="4" font-size="12">2 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Romeo</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">pinkpantheress</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Misery Loves Company</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Rebecca Black</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
                     <text class="color-fg-muted" x="16" y="4" font-size="12">4 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Talk talk</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Charli XCX</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Yum</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Kep1er</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">8 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">eko</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Yeule</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">7 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Girl Next Door</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Red Velvet - IRENE & SEULGI</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">11 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">The Rapture Ball</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Poppy</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">12 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">SASS (Prod. THE HUB)</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">izna</text>
                 </g>
                     </g>
     </g>
