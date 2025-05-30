@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">1 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">FFFFF</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Lexie Liu</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Feather</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Sabrina Carpenter</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">58 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Oyahytt</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">The Coup feat. LaKeith Stanfield</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">5 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">I AM</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Ive</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">1 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Solidarity (Korean version) 임을 위한 행진곡 (작사 백기완 황석영, 작곡 김종률, 편곡 윤민석)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">김용민TV</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">8 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">FFFFF</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Lexie Liu</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
                     <text class="color-fg-muted" x="16" y="4" font-size="12">1 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Solidarity (Thai version) ดนตรีแรงงาน</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Thai Labour Museum (พิพิธภัณฑ์แรงงานไทย)</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Oyahytt</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">The Coup feat. LaKeith Stanfield</text>
                 </g>
                     </g>
     </g>
