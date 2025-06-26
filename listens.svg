@@ -42,13 +42,13 @@
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">23 hours ago</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">2025-06-25T23:51:17+00:00</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">You Love Who You Love</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Zara Larsson</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">23 hours ago</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">2025-06-25T23:47:56+00:00</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">Pretty Ugly</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Zara Larsson</text>
                 </g>
