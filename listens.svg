@@ -37,26 +37,26 @@
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
                     <text class="color-fg-muted" x="16" y="4" font-size="12">2 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Whiplash</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">aespa</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Angel Of My Dreams</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">JADE</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">20 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Go as a Dream</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Caroline Polachek</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">5 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Tonight</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">PinkPantheress</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">20 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Hey Big Eyes</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Caroline Polachek</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">8 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Make Up</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">The Deep</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">20 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Ocean of Tears</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Caroline Polachek</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">11 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Perfect Celebrity</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Lady Gaga</text>
                 </g>
                     </g>
     </g>
