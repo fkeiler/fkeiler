@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">23 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">jellyous</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Illit</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">4 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">BOY CRAZY. (feat. JADE)</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Kesha</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">27 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Broken Flowers</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Danny L Harle</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">24/7</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Re:name</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">31 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">On The Beach (from DEATH STRANDING 2: ON THE BEACH)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Caroline Polachek</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Horizon Dreamer</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Daichi Miura</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">1 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Pretty Ugly</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Zara Larsson</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">35 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">jellyous</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Illit</text>
                 </g>
                     </g>
     </g>
