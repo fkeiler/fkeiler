@@ -36,25 +36,25 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 hours ago</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">7 hours ago</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">Smart</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">LE SSERAFIM</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 hours ago</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">7 hours ago</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">TWICE</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 hours ago</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">7 hours ago</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">M.I.A</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Katseye</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 hours ago</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">7 hours ago</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">No One Noticed</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">The Marías</text>
                 </g>
