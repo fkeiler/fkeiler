@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">8 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Fly Away</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">TeddyLoid</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">4 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">MEOW</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">MEOVV</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">8 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">HANDS UP</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">MEOVV</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">5 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">JUMP</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">BLACKPINK</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">8 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Strategy (feat. Megan Thee Stallion)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">TWICE</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">11 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Billyeoon Goyangi (Do the Dance)</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">ILLIT</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
                     <text class="color-fg-muted" x="16" y="4" font-size="12">8 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Icarus</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">ARTMS</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Fly Away</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">TeddyLoid</text>
                 </g>
                     </g>
     </g>
