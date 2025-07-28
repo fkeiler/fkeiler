@@ -37,26 +37,26 @@
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
                     <text class="color-fg-muted" x="16" y="4" font-size="12">4 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">METALLIC STALLION</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">MARINA</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Midnight Sun</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Zara Larsson</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">8 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Punkrocker (As featured in Superman) (feat. Iggy Pop)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Teddybears</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">7 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">White cat</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Yves</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">9 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">English Suite No. 1 in A Major, BWV 806: III. Courante I</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Alexandra Papastefanou</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">11 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Já Sei Namorar (2004 Digital Remaster)</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Tribalistas</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">English Suite No. 1 in A Major, BWV 806: II. Allemande</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Alexandra Papastefanou</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">15 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Jeito Sexy</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Fat Family</text>
                 </g>
                     </g>
     </g>
