@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">3 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">FFFFF</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Lexie Liu</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Neverender</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Justice & Tame Impala</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">5 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Can't Catch Me</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">VTSS</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">11 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Starlight</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Danny L Harle & PinkPantheress</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">37 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Punkrocker (As featured in Superman)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Teddybears</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">13 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Von dutch</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Charli xcx</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">48 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Punkrocker (As featured in Superman)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Teddybears</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">17 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">FFFFF</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Lexie Liu</text>
                 </g>
                     </g>
     </g>
