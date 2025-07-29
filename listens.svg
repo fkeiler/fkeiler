@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">friend like me</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">ifeye</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">jellyous</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Illit</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Dark Arts</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">aespa</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Punkrocker (As featured in Superman)</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Teddybears</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Yes</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">hyO</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">11 hours ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">friend like me</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">ifeye</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Blood Moon (Blood Moon)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">YooA</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">11 hours ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Dark Arts</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">aespa</text>
                 </g>
                     </g>
     </g>
