@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">11 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">B2b</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Charli xcx</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">39 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">HANDS UP</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">MEOVV</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">15 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Fantasy</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">JADE</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">42 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">DIGITAL FANTASY</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">MARINA</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">18 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Gameboy</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">KATSEYE</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">46 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Blow</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Ke$ha</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">21 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Not My Fault</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Reneé Rapp & Megan Thee Stallion</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">50 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Born Again (feat. Doja Cat & RAYE)</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">LISA</text>
                 </g>
                     </g>
     </g>
