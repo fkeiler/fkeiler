@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">BIPP</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">1 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">HARD</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">SOPHIE</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">11 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">I CAN'T STOP ME</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">TWICE</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">3 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">LEMONADE</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">SOPHIE</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">11 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Golden</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">HUNTR/X, EJAE, AUDREY NUNA & REI AMI</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">ELLE</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">SOPHIE</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
                     <text class="color-fg-muted" x="16" y="4" font-size="12">11 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Supernova</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">aespa</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">BIPP</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">SOPHIE</text>
                 </g>
                     </g>
     </g>
