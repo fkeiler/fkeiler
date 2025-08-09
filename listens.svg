@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Angels and Demons</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">TeddyLoid</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">16 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">DIORAMA</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Yves</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">12 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">UFO</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">f5ve</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">19 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Cherish (My Love)</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">ILLIT</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">12 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Gabriela (Young Miko Remix)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">KATSEYE</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">21 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Sour Candy</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Lady Gaga & BLACKPINK</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">12 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">ATTITUDE</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">IVE</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">24 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Yum</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Kep1er</text>
                 </g>
                     </g>
     </g>
