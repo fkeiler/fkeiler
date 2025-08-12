@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Dove Cameron</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Amaarae</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">3 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Rush (feat. PinkPantheress & Hyunjin)</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Troye Sivan</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">8 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Chaise Longue</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Wet Leg</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Beyond the way</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Giga</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">9 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Amiga da Minha Mulher</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Seu Jorge</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">DANCING ALONE</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">KiiiKiii</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">9 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Ainda Gosto Dela</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Skank</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">23 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">DANCING ALONE</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">KiiiKiii</text>
                 </g>
                     </g>
     </g>
