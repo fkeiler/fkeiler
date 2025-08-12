@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">4 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Guess featuring Billie Eilish</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Charli xcx & Billie Eilish</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">20 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Amiga da Minha Mulher</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Seu Jorge</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Chaise Longue</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Wet Leg</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">25 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Ainda Gosto Dela</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Skank</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">12 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Skin (Album Version)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Madonna</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">29 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Jeito Sexy</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Fat Family</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">12 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Candy Perfume Girl (Album Version)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Madonna</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">32 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Já Sei Namorar (2004 Digital Remaster)</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Tribalistas</text>
                 </g>
                     </g>
     </g>
