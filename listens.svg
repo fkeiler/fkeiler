@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">35 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Pepsi Zero Sugar Super Bowl LI Halftime Show</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Lady Gaga</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">brrr</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Kim Petras</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Spicy</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">aespa</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Freak It</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Kim Petras</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">UNFORGIVEN (feat. Nile Rodgers)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">LE SSERAFIM</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Rush (feat. PinkPantheress & Hyunjin)</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Troye Sivan</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Mean Girls</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">KATSEYE</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">16 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Abracadabra</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Lady Gaga</text>
                 </g>
                     </g>
     </g>
