@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">11 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">GLAM</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">KEY</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">13 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">JUST DANCE 2</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">PARTYOF2, Jadagrace e SWIM</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Apetitosa</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Pabllo Vittar, MC Tchelinho e DJ Tonias</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">16 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">YOLO</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">horsegiirL</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Penetra</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Pabllo Vittar e O Kannalha</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">18 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">GLAM</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">KEY</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
                     <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Derretida</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Pabllo Vittar</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Apetitosa</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Pabllo Vittar, MC Tchelinho e DJ Tonias</text>
                 </g>
                     </g>
     </g>
