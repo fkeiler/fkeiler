@@ -36,13 +36,13 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">56 minutes ago</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">1 hours ago</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">Fantasy</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">JADE</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">59 minutes ago</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">1 hours ago</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">Aquamarine</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Addison Rae</text>
                 </g>
