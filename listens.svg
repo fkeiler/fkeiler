@@ -36,25 +36,25 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">25 minutes ago</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">33 minutes ago</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">Over This!</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Slayyyter</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">29 minutes ago</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">37 minutes ago</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">Serial Killer</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Slayyyter</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">33 minutes ago</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">41 minutes ago</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">Cowboys</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Slayyyter</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">36 minutes ago</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">44 minutes ago</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">Clouds</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Slayyyter</text>
                 </g>
