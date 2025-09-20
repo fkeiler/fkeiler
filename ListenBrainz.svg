@@ -50,5 +50,5 @@
     <rect class="button" fill="#eb743b" x="1" y="1" width="122" height="30" rx="5.6470588235294117" />
     <use class="icon" color="white" stroke-width="2" href="#arcticons-listenbrainz" x="12" y="8" height="16"
         width="16" />
-    <text x="36" y="22" fill="white" textLength="76">ListenBrainz</text>
+    <text x="36" y="22" fill="white" textLength="76" lengthAdjust="spacingAndGlyphs">ListenBrainz</text>
 </svg>

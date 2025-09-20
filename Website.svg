@@ -34,5 +34,5 @@
     <rect class="border" x="0" y="0" width="102" height="32" rx="6" />
     <rect class="button" x="1" y="1" width="100" height="30" rx="5.6470588235294117" />
     <use class="icon" href="#octicon-globe-16" x="12" y="8" height="16" width="16" />
-    <text x="36" y="22" textLength="54">Website</text>
+    <text x="36" y="22" textLength="54" lengthAdjust="spacingAndGlyphs">Website</text>
 </svg>

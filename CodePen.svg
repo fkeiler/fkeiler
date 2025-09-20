@@ -25,7 +25,7 @@
     <rect class="border" x="0" y="0" width="108" height="32" rx="6" />
     <rect class="button" x="1" y="1" width="106" height="30" fill="#1e1f26" rx="5.6470588235294117" />
     <use href="#brandico-codepen" x="12" y="8" width="16" height="16" color="white" />
-    <text x="36" y="22" font-size="14" fill="white" textLength="60">
+    <text x="36" y="22" font-size="14" fill="white" textLength="60" lengthAdjust="spacingAndGlyphs">
         CodePen
     </text>
 </svg>
