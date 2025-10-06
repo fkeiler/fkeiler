@@ -36,26 +36,26 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">23 minutes ago</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">14 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Você É Um Perigo (Vídeo Oficial)</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Priscilla Alcantara</text>
+                </g>
+                            <g transform="translate(0, 60)">
+                    <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">41 minutes ago</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">Midnight Sun</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Zara Larsson</text>
                 </g>
-                            <g transform="translate(0, 60)">
+                            <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
                     <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">Duhhhhhhhhhhhhhhhhh</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">underscores</text>
                 </g>
-                            <g transform="translate(0, 120)">
-                    <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Locals (Girls like us)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">underscores</text>
-                </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
                     <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Cops and robbers</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Locals (Girls like us)</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">underscores</text>
                 </g>
                     </g>
