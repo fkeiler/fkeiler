@@ -37,26 +37,26 @@
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
                     <text class="color-fg-muted" x="16" y="4" font-size="12">7 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Actually Romantic</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Honey</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Taylor Swift</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">56 minutes ago</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">15 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Actually Romantic</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Taylor Swift</text>
+                </g>
+                            <g transform="translate(0, 120)">
+                    <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">1 hours ago</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">Nirvana</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Jessica Winter</text>
                 </g>
-                            <g transform="translate(0, 120)">
+                            <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
                     <text class="color-fg-muted" x="16" y="4" font-size="12">2 hours ago</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">Kim Lip ‘Can You Entertain?’ Official MV</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">ARTMS</text>
-                </g>
-                            <g transform="translate(0, 180)">
-                    <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">11 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">One Night/All Night</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Justice</text>
                 </g>
                     </g>
     </g>
