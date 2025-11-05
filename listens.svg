@@ -37,26 +37,26 @@
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
                     <text class="color-fg-muted" x="16" y="4" font-size="12">3 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">ELECTRIC</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Don't make me cry</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Frost Children</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">15 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Position Famous</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">RADIO</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Frost Children</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">57 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Position Famous</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">9 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Dirty girl</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Frost Children</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">12 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Do It</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Underscores</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">13 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Sister</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Frost Children</text>
                 </g>
                     </g>
     </g>
