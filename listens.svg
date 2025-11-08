@@ -48,7 +48,7 @@
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">8 hours ago</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">9 hours ago</text>
                     <text class="color-fg-default" x="16" y="22" font-size="14">underscores — Do It</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">underscores</text>
                 </g>
