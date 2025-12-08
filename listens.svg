@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Riot (Sad Summer Fest, Baltimore, MD, July 12, 2023)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Daisy Grenade</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">4 hours ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Ride a White Horse</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Goldfrapp</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">CupcakKe - Ufo</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">cupcakKe</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">4 hours ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Lovely 2 C U</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Goldfrapp</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">cHuRcH</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Jade</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">4 hours ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Slide In</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Goldfrapp</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">cHuRcH</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Jade</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">4 hours ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Ooh La La</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Goldfrapp</text>
                 </g>
                     </g>
     </g>
