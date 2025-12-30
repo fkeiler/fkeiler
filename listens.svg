@@ -36,26 +36,26 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Ojos Tristes</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">15 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Scared Of Loving You</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Selena Gomez</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">4 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Call Me When You Break Up</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">17 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Don’t Take It Personally</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Selena Gomez</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">8 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Younger And Hotter Than Me</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Selena Gomez</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">20 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">I Can’t Get Enough</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Benny Blanco</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">8 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">I Said I Love You First</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">23 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">You Said You Were Sorry</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">Selena Gomez</text>
                 </g>
                     </g>
