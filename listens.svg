@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">3 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Berghain (feat. Björk & Yves Tumor)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">ROSALÍA</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">22 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Good Kisses</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Miso Extra</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">4 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Berghain (feat. Björk & Yves Tumor)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">ROSALÍA</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">22 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Good Kisses</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Miso Extra</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">19 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">In this video</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">PinkPantheress</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">24 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">POP</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Miso Extra</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">29 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Stateside + Zara Larsson</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">PinkPantheress</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">25 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">POP</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Miso Extra</text>
                 </g>
                     </g>
     </g>
