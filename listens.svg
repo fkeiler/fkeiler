@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2026-02-21T16:31:42+00:00</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">BURNING UP</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Meovv</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">14 seconds ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Ghostly</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Miso Extra</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2026-02-21T16:28:23+00:00</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">뭘 기다리고 있어(What You Waiting For)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">R.Tee x Anda</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">4 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Slow Down</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Miso Extra & DJ BORING</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2026-02-21T16:21:02+00:00</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">earthquake</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">JISOO</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">8 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Moshi Moshi (interlude)</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Miso Extra</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2026-02-21T16:16:18+00:00</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">JUMP</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">BLACKPINK</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Done.</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Miso Extra</text>
                 </g>
                     </g>
     </g>
