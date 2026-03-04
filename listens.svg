@@ -36,26 +36,26 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">19 minutes ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Beat of My Drum</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Nicola Roberts</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Sex</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">The Dare</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">LCA</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">4 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Girls</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">The Dare</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Cheeky</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">The Dare</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">47 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Beat of My Drum</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Nicola Roberts</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
                     <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">You Can Never Go Home</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">LCA</text>
                     <text class="color-fg-muted" x="16" y="38" font-size="14">The Dare</text>
                 </g>
                     </g>
