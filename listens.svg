@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2026-05-10T03:39:52+00:00</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Charli xcx - Rock Music</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Charli xcx</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 hours ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">On Call</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">MUNA</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2026-05-10T03:32:24+00:00</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">American Teenager</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Ethel Cain</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 hours ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Wannabeher</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">MUNA</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2026-05-10T03:23:45+00:00</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Charli xcx - Rock Music</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Charli xcx</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 hours ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Eastside Girls</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">MUNA</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2026-05-10T03:18:33+00:00</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Cheerleader</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Porter Robinson</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 hours ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Dancing on the Wall</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">MUNA</text>
                 </g>
                     </g>
     </g>
