@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">I CAN’T LOSE YOU</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Confidence Man</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">21 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Dancing on the Wall</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">MUNA</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Gossip (Preview)</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Confidence Man & JADE</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">23 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">It Gets So Hot</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">MUNA</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Like Sugar</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Chaka Khan</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">28 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Buzzkiller</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">MUNA</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">7 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Fire Away</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Madeon</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">32 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Why Do I Get a Good Feeling</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">MUNA</text>
                 </g>
                     </g>
     </g>
