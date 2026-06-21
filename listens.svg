@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Coração Materno</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Caetano Veloso</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">stupid song</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Olivia Rodrigo</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Miserere Nobis</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Gilberto Gil</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">drop dead</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Olivia Rodrigo</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Chega de Saudade</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Maria Bethânia</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">11 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Hino Do Senhor Do Bonfim</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Gal Costa</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2026-06-20T13:14:36+00:00</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Angel Of Satisfaction</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Rose Gray</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">13 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Bat Macumba</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Gilberto Gil</text>
                 </g>
                     </g>
     </g>
