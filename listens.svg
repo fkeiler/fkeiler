@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Buzzkiller</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">MUNA</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">3 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Flower In A Hurricane</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Justice, Tame Impala, SZA, & Grand Theft Auto VI</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Why Do I Get a Good Feeling</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">MUNA</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">46 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Justice</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Girl’s Girl</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">MUNA</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">1 hours ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Pusher (feat. Gesaffelstein) [From GTAVI: Original Score]</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Justice</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">6 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Mary Jane</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">MUNA</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">1 hours ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Positif</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Mr Oizo</text>
                 </g>
                     </g>
     </g>
