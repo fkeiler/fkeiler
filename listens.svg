@@ -36,27 +36,27 @@
             <path class="border-color-default-stroke" d="M4, 0 l0, 236" stroke="#d1d9e0" />
                             <g transform="translate(0, 0)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Positif</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Mr Oizo</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">29 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Met my match</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Say Now</text>
                 </g>
                             <g transform="translate(0, 60)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">2 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">hey boyyy</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Slayyyter</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">31 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">No pyjamas</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Say Now</text>
                 </g>
                             <g transform="translate(0, 120)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">10 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">DASH</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">NMIXX</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">34 minutes ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Hot & talking</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Say Now</text>
                 </g>
                             <g transform="translate(0, 180)">
                     <circle class="border-color-default-fill" cx="4" cy="0" fill="#d1d9e0" r="4" />
-                    <text class="color-fg-muted" x="16" y="4" font-size="12">14 hours ago</text>
-                    <text class="color-fg-default" x="16" y="22" font-size="14">Flashbacks</text>
-                    <text class="color-fg-muted" x="16" y="38" font-size="14">Tinashe</text>
+                    <text class="color-fg-muted" x="16" y="4" font-size="12">11 hours ago</text>
+                    <text class="color-fg-default" x="16" y="22" font-size="14">Positif</text>
+                    <text class="color-fg-muted" x="16" y="38" font-size="14">Mr Oizo</text>
                 </g>
                     </g>
     </g>
